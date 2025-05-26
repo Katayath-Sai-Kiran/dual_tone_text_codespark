@@ -1,8 +1,12 @@
 
+<img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/banners/banner.png" alt="Banner"/>
+
 # 🖌️ dual_tone_text
 
 [![Pub Version](https://img.shields.io/pub/v/dual_tone_text)](https://pub.dev/packages/dual_tone_text_codespark)
 [![GitHub](https://img.shields.io/badge/GitHub-Katayath--Sai--Kiran%2Fdual__tone__text_codespark-blue?logo=github)](https://github.com/Katayath-Sai-Kiran/dual_tone_text_codespark)
+
+
 
 
 Render sharp dual-colored text in Flutter — vertically, horizontally, or radially split with **solid cutoff** (not gradient). Perfect for high-impact UIs, headers, or artistic effects.
@@ -83,7 +87,9 @@ RadialSplitText(
 
 ## 📷 Preview
 
-> *Demos coming soon with screenshots and `.gif` animation*
+<img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/screenshots/300x650-01.png" alt="Vertical Split" width="150"/>
+<img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/screenshots/300x650-02.png" alt="Screenshot Horizontal Split" width="150"/>
+<img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/screenshots/300x650-03.png" alt="Radial Split" width="150"/>
 
 
 ## 💡 Roadmap
@@ -116,7 +122,7 @@ flutter run
 
 ## 👨‍💻 Maintainer
 
-Developed with 💙 by [Katayath Sai Kiran](https://github.com/kskiran-dev)
+Developed with 💙 by [Katayath Sai Kiran](https://github.com/Katayath-Sai-Kiran)
 📬 Feel free to contribute or suggest improvements!
 
 

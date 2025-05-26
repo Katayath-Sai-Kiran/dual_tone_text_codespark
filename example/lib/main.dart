@@ -37,6 +37,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.white,
                   ),
                 ),
+
                 outerColor: Colors.red,
                 radiusCutoff: 0.4,
               ),
