@@ -1,7 +1,7 @@
 name: dual_tone_text_codespark
 description: "A Flutter package to render text with sharp dual-tone color splits—vertical, horizontal, or radial. Great for stylish titles and headers."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/Katayath-Sai-Kiran/dual_tone_text_codespark"
 
 environment:
   sdk: ^3.8.0-171.0.dev

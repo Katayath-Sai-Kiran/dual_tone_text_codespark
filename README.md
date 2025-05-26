@@ -1,8 +1,8 @@
 
 # 🖌️ dual_tone_text
 
-[![Pub Version](https://img.shields.io/pub/v/dual_tone_text)](https://pub.dev/packages/dual_tone_text)
-[![GitHub](https://img.shields.io/badge/GitHub-kskiran--dev%2Fdual__tone__text-blue?logo=github)](https://github.com/kskiran-dev/dual_tone_text)
+[![Pub Version](https://img.shields.io/pub/v/dual_tone_text)](https://pub.dev/packages/dual_tone_text_codespark)
+[![GitHub](https://img.shields.io/badge/GitHub-Katayath-Sai-Kiran%2Fdual__tone__text-blue?logo=github)](https://github.com/Katayath-Sai-Kiran/dual_tone_text_codespark)
 
 Render sharp dual-colored text in Flutter — vertically, horizontally, or radially split with **solid cutoff** (not gradient). Perfect for high-impact UIs, headers, or artistic effects.
 
@@ -119,10 +119,6 @@ Developed with 💙 by [Katayath Sai Kiran](https://github.com/kskiran-dev)
 📬 Feel free to contribute or suggest improvements!
 
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-```
 
 
