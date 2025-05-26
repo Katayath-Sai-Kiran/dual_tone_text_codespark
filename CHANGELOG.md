@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.0.3] - Added screenshots for pub.dev
+
 ## [0.0.2] - Added More Split Styles & Improvements
 
 - ✨ Added `RadialSplitText` widget with center-to-edge dual-tone styling.

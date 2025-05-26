@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
 
 /// Defines the direction in which the text will be split.
-enum DualToneDirection {
-  vertical,
-  horizontal,
-}
+enum DualToneDirection { vertical, horizontal }
 
 /// A widget that displays a [Text] widget with a dual-tone color effect.
 ///
@@ -72,9 +69,7 @@ class DualToneText extends StatelessWidget {
           ],
         );
 
-        return gradient.createShader(
-          Rect.fromLTWH(0, 0, width, height),
-        );
+        return gradient.createShader(Rect.fromLTWH(0, 0, width, height));
       },
       child: text,
     );
