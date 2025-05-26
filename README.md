@@ -3,7 +3,7 @@
 
 # 🖌️ dual_tone_text
 
-[![Pub Version](https://img.shields.io/pub/v/dual_tone_text)](https://pub.dev/packages/dual_tone_text_codespark)
+[![Pub Version](https://img.shields.io/pub/v/dual_tone_text_codespark)](https://pub.dev/packages/dual_tone_text_codespark)
 [![GitHub](https://img.shields.io/badge/GitHub-Katayath--Sai--Kiran%2Fdual__tone__text_codespark-blue?logo=github)](https://github.com/Katayath-Sai-Kiran/dual_tone_text_codespark)
 
 

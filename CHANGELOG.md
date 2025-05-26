@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.0.4] - Updated Pub Link
+
 ## [0.0.3] - Added screenshots for pub.dev
 
 ## [0.0.2] - Added More Split Styles & Improvements
