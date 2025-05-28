@@ -34,7 +34,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  dual_tone_text: ^0.0.1
+  dual_tone_text: ^0.0.5
 ````
 
 Then run:
