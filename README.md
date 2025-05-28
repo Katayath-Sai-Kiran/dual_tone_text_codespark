@@ -7,8 +7,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Katayath--Sai--Kiran%2Fdual__tone__text_codespark-blue?logo=github)](https://github.com/Katayath-Sai-Kiran/dual_tone_text_codespark)
 
 
-
-
 Render sharp dual-colored text in Flutter — vertically, horizontally, or radially split with **solid cutoff** (not gradient). Perfect for high-impact UIs, headers, or artistic effects.
 
 > ✨ Fully **null-safe** and supports **international text**.
@@ -16,16 +14,16 @@ Render sharp dual-colored text in Flutter — vertically, horizontally, or radia
 
 ## 🚀 Features
 
-✅ Sharp vertical split (top/bottom)
-✅ Solid horizontal split (left/right)
-✅ Powerful radial center-out split
-✅ Per-character split (change color after n characters)
-✅ Checkerboard style (alternating color blocks)
-✅ Per-word dual tone (each word switches color)
-✅ No blending — hard color switch
-✅ Custom percentage-based control
-✅ Works with any Text widget
-✅ Designed for performance
+✅ Sharp vertical split (top/bottom)  
+✅ Solid horizontal split (left/right)  
+✅ Powerful radial center-out split  
+✅ Per-character split (change color after n characters)  
+✅ Checkerboard style (alternating color blocks)  
+✅ Per-word dual tone (each word switches color)  
+✅ No blending — hard color switch  
+✅ Custom percentage-based control  
+✅ Works with any Text widget  
+✅ Designed for performance  
 
 
 ## 🔧 Installation
