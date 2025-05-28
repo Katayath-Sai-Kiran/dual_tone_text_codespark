@@ -41,6 +41,28 @@ class MyApp extends StatelessWidget {
                 outerColor: Colors.red,
                 radiusCutoff: 0.4,
               ),
+              DualToneTextByChar(
+                text: "Hello World",
+
+                style: TextStyle(fontSize: 24),
+                topColor: Colors.red,
+                bottomColor: Colors.blue,
+                splitAt: 8,
+              ),
+
+              DualToneCheckerboardText(
+                text: "Checkerboard",
+                style: TextStyle(fontSize: 24),
+                color1: Colors.green,
+                color2: Colors.orange,
+              ),
+
+              DualToneWordSplitText(
+                text: "Split Per Word",
+                style: TextStyle(fontSize: 24),
+                color1: Colors.purple,
+                color2: Colors.teal,
+              ),
             ],
           ),
         ),

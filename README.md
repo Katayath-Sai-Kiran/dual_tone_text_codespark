@@ -16,13 +16,16 @@ Render sharp dual-colored text in Flutter — vertically, horizontally, or radia
 
 ## 🚀 Features
 
-✅ Sharp **vertical split** (top/bottom)  
-✅ Solid **horizontal split** (left/right)  
-✅ Powerful **radial center-out split**  
-✅ No blending — **hard color switch**  
-✅ Custom percentage-based control  
-✅ Works with any `Text` widget  
-✅ Designed for performance  
+✅ Sharp vertical split (top/bottom)
+✅ Solid horizontal split (left/right)
+✅ Powerful radial center-out split
+✅ Per-character split (change color after n characters)
+✅ Checkerboard style (alternating color blocks)
+✅ Per-word dual tone (each word switches color)
+✅ No blending — hard color switch
+✅ Custom percentage-based control
+✅ Works with any Text widget
+✅ Designed for performance
 
 
 ## 🔧 Installation
@@ -83,6 +86,39 @@ RadialSplitText(
   radiusCutoff: 0.4, // Inner 40% white, outer 60% red
 )
 ```
+### 🌐 Per-Character Dual Tone
+
+```dart
+DualToneTextByChar(
+  text: "Hello World",
+  style: TextStyle(fontSize: 24),
+  topColor: Colors.red,
+  bottomColor: Colors.blue,
+  splitAt: 8,
+)
+```
+
+### 🔳 Checkerboard Pattern
+
+```dart
+DualToneCheckerboardText(
+  text: "Checkerboard",
+  style: TextStyle(fontSize: 24),
+  color1: Colors.green,
+  color2: Colors.orange,
+)
+```
+
+### 🪄 Split Per Word
+
+```dart
+DualToneWordSplitText(
+  text: "Split Per Word",
+  style: TextStyle(fontSize: 24),
+  color1: Colors.purple,
+  color2: Colors.teal,
+)
+```
 
 
 ## 📷 Preview
@@ -90,6 +126,7 @@ RadialSplitText(
 <img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/screenshots/300x650-01.png" alt="Vertical Split" width="150"/>
 <img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/screenshots/300x650-02.png" alt="Screenshot Horizontal Split" width="150"/>
 <img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/screenshots/300x650-03.png" alt="Radial Split" width="150"/>
+<img src="https://raw.githubusercontent.com/Katayath-Sai-Kiran/dual_tone_text_codespark/main/assets/screenshots/300x650-04.png" alt="Radial Split" width="150"/>
 
 
 ## 💡 Roadmap
@@ -97,12 +134,16 @@ RadialSplitText(
 * [x] Vertical Split
 * [x] Horizontal Split
 * [x] Radial Split
+* [x] Checker Text
+* [x] Character-based Split
+* [x] Word-based Split
 * [ ] Diagonal Split (↘ / ↖)
 * [ ] Text Stroke or Border Split
 * [ ] N-Color Sectional Split
 * [ ] Animation support for transitions
 * [ ] Emoji-safe, RTL and multi-line support
 * [ ] Canvas-based rendering for custom shapes
+
 
 
 ## 🌍 Internationalization
@@ -124,8 +165,5 @@ flutter run
 
 Developed with 💙 by [Katayath Sai Kiran](https://github.com/Katayath-Sai-Kiran)
 📬 Feel free to contribute or suggest improvements!
-
-
-
 
 

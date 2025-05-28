@@ -26,15 +26,21 @@ assets:
   - 'assets/screenshots'
 
 screenshots:
+
   - path: assets/screenshots/300x650-01.png
-    description: Clean horizontal dual-tone text — perfect for headlines and branding.
-    width: 300
-  - path: assets/screenshots/300x650-02.png
     description: Vertical color separation for bold UI elements and section labels.
+    width: 300
+
+  - path: assets/screenshots/300x650-02.png
+    description: Clean horizontal dual-tone text — perfect for headlines and branding.
     width: 300
 
   - path: assets/screenshots/300x650-03.png
     description: Radial split with solid center and colored outer ring for a dramatic focus.
+    width: 300
+
+  - path: assets/screenshots/300x650-04.png
+    description: Characters switch color after a set index,Alternating color grid pattern and Alternating colors across each word
     width: 300
 
 
