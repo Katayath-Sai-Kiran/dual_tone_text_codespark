@@ -44,7 +44,7 @@ screenshots:
     width: 300
 
   - path: assets/screenshots/300x650-05.png
-
+    description: Creates a smooth sinusoidal wavy horizontal split where top and bottom colors flow in a wave pattern
     width: 300
 
 
