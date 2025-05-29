@@ -40,7 +40,11 @@ screenshots:
     width: 300
 
   - path: assets/screenshots/300x650-04.png
-    description: Characters switch color after a set index,Alternating color grid pattern and Alternating colors across each word
+    description: Radial split with solid center and colored outer ring for a dramatic focus.
+    width: 300
+
+  - path: assets/screenshots/300x650-05.png
+
     width: 300
 
 
